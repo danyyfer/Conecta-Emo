@@ -1,2 +1,2 @@
 # ConectaEmo
-Una app de conexión emocional entre personas reales.
+App emocional desarrollada con React Native + Expo.
